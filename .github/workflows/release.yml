@@ -1,11 +1,8 @@
-name: CI
+name: Release
 on:
   push:
     branches:
-      - '*'
-      - '*/*'
-      - '**'
-      - '!main'
+      - 'main'
 jobs:
   main:
     runs-on: ubuntu-latest
