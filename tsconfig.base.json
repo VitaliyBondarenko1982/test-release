@@ -15,9 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@test-release/bar": ["libs/bar/src/index.ts"],
-      "@test-release/baz": ["libs/baz/src/index.ts"],
-      "@test-release/foo": ["libs/foo/src/index.ts"]
+      "@monoleasa-v/bar": ["libs/bar/src/index.ts"],
+      "@monoleasa-v/baz": ["libs/baz/src/index.ts"],
+      "@monoleasa-v/foo": ["libs/foo/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

@@ -1,5 +1,5 @@
 {
-  "name": "@test-release/foo",
+  "name": "@monoleasa-v/foo",
   "version": "0.0.1",
   "publishConfig": {
     "access": "public"

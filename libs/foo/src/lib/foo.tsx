@@ -1,5 +1,5 @@
 import styles from './foo.module.scss';
-import { Baz } from '@test-release/baz';
+import { Baz } from '@monoleasa-v/baz';
 
 /* eslint-disable-next-line */
 export interface FooProps {}
