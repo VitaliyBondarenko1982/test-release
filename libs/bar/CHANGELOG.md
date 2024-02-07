@@ -1,3 +1,17 @@
+## [1.1.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v1.0.0...bar-v1.1.0) (2024-02-07)
+
+
+### Features
+
+* improve bar ([c37d9b1](https://github.com/VitaliyBondarenko1982/test-release/commit/c37d9b1c01345506db3500fcde296eb4c141bd4c))
+
+
+### Chores
+
+* commit version number ([03590bf](https://github.com/VitaliyBondarenko1982/test-release/commit/03590bf2fb72a1565fb68425c03c38c66cd9dbd7))
+* **release:** foo-v1.0.0 [skip ci] ([50ff39a](https://github.com/VitaliyBondarenko1982/test-release/commit/50ff39aaa62b4926537388da125b6c40a1961b96))
+* remove repository url ([bdbe775](https://github.com/VitaliyBondarenko1982/test-release/commit/bdbe775770a9aab1ffb1fd3a467c51b1accec717))
+
 ## 1.0.0 (2024-02-07)
 
 
