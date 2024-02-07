@@ -4,8 +4,5 @@
   "peerDependencies": {
     "react": "18.2.0"
   },
-  "sideEffects": false,
-  "devDependencies": {
-    "semantic-release-plus": "^20.0.0"
-  }
+  "sideEffects": false
 }
