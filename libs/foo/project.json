@@ -7,7 +7,9 @@
   "targets": {
     "build": {
       "executor": "@nx/rollup:rollup",
-      "outputs": ["{options.outputPath}"],
+      "outputs": [
+        "{options.outputPath}"
+      ],
       "options": {
         "outputPath": "dist/libs/foo",
         "tsConfig": "libs/foo/tsconfig.lib.json",
