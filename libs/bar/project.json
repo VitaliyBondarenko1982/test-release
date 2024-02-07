@@ -46,11 +46,7 @@
     "release": {
       "builder": "nx:run-commands",
       "options": {
-        "commands": [
-          {
-            "command": "npx semantic-release --debug --extends=./libs/bar/.release.config.js"
-          }
-        ]
+        "command": "git pull && npx semantic-release --debug --extends=./libs/bar/.release.config.js"
       }
     }
   }
