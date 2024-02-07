@@ -48,7 +48,7 @@
       "options": {
         "commands": [
           {
-            "command": "npx semantic-release --debug --extends=./release.config.js"
+            "command": "npx semantic-release --debug --extends=./libs/bar/.release.config.js"
           }
         ]
       }
