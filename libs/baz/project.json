@@ -44,11 +44,11 @@
       "outputs": ["{options.outputFile}"]
     },
     "release": {
-      "builder": "@nx/workspace:run-commands",
+      "builder": "nx:run-commands",
       "options": {
         "commands": [
           {
-            "command": "npx semantic-release --debug --extends=./libs/baz/release.config.js"
+            "command": "npx semantic-release --debug --extends=./release.config.js"
           }
         ]
       }
