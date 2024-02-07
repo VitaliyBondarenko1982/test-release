@@ -17,9 +17,6 @@
     "build:foo": "nx build --project foo",
     "build": "nx run-many --target=build --all"
   },
-  "repository": {
-    "url": "https://github.com/VitaliyBondarenko1982/test-release.git"
-  },
   "private": true,
   "dependencies": {
     "react": "18.2.0",
