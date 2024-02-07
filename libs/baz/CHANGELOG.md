@@ -1,3 +1,20 @@
+## [1.1.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v1.0.0...baz-v1.1.0) (2024-02-07)
+
+
+### Features
+
+* improve bar ([c37d9b1](https://github.com/VitaliyBondarenko1982/test-release/commit/c37d9b1c01345506db3500fcde296eb4c141bd4c))
+
+
+### Chores
+
+* commit version number ([03590bf](https://github.com/VitaliyBondarenko1982/test-release/commit/03590bf2fb72a1565fb68425c03c38c66cd9dbd7))
+* **release:** bar-v1.0.0 [skip ci] ([067ac62](https://github.com/VitaliyBondarenko1982/test-release/commit/067ac62e6d08adeddaac5d9ed19c790043bb9b2f))
+* **release:** bar-v1.1.0 [skip ci] ([eceb424](https://github.com/VitaliyBondarenko1982/test-release/commit/eceb424e95b48441e772631876efed81b70b0c65))
+* **release:** foo-v1.0.0 [skip ci] ([50ff39a](https://github.com/VitaliyBondarenko1982/test-release/commit/50ff39aaa62b4926537388da125b6c40a1961b96))
+* remove repository url ([bdbe775](https://github.com/VitaliyBondarenko1982/test-release/commit/bdbe775770a9aab1ffb1fd3a467c51b1accec717))
+* update packages names ([24b96a1](https://github.com/VitaliyBondarenko1982/test-release/commit/24b96a1b88fe7773f2355cb317fec000030a0404))
+
 ## 1.0.0 (2024-02-07)
 
 
