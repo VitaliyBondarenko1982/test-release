@@ -7,6 +7,7 @@ import { Foo } from '@test-release/foo';
 export function App() {
   return (
     <div>
+       <div>Welcome test-release-app</div>
       <Bar />
       <Foo />
     </div>
