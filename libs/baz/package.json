@@ -1,6 +1,9 @@
 {
   "name": "@test-release/baz",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "react": "18.2.0"
   },
