@@ -1,3 +1,18 @@
+## [1.2.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v1.1.0...bar-v1.2.0) (2024-02-07)
+
+
+### Features
+
+* improve bar ([7903f11](https://github.com/VitaliyBondarenko1982/test-release/commit/7903f11b9d9856a2d65f99f2f3909092addc659a))
+
+
+### Chores
+
+* bar not really welcome ([c2d0351](https://github.com/VitaliyBondarenko1982/test-release/commit/c2d0351dc94cef10a8cac5e064465f7187646e16))
+* **release:** baz-v1.1.0 [skip ci] ([0c4e7e4](https://github.com/VitaliyBondarenko1982/test-release/commit/0c4e7e49268ffbd8b22eda65ff1da3c4c2130c22))
+* **release:** foo-v1.1.0 [skip ci] ([59f86c0](https://github.com/VitaliyBondarenko1982/test-release/commit/59f86c02547e74d96fbad88c92fb77ad9a1c477d))
+* update packages names ([24b96a1](https://github.com/VitaliyBondarenko1982/test-release/commit/24b96a1b88fe7773f2355cb317fec000030a0404))
+
 ## [1.1.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v1.0.0...bar-v1.1.0) (2024-02-07)
 
 
