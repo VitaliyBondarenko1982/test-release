@@ -1,3 +1,17 @@
+## [2.2.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.1.0...foo-v2.2.0) (2024-02-08)
+
+
+### Features
+
+* another update bar ([737a846](https://github.com/VitaliyBondarenko1982/test-release/commit/737a8468b6aee53199b0b60b549889be1b6409bc))
+* improve foo ([a852b9b](https://github.com/VitaliyBondarenko1982/test-release/commit/a852b9ba4ba4cbded272056aa74e8eb7c4a1fb4b))
+
+
+### Chores
+
+* adjust nxignore ([3a7d166](https://github.com/VitaliyBondarenko1982/test-release/commit/3a7d16644238ae7c99e490c04f379abc9cb6a063))
+* **release:** bar-v2.2.0 [skip ci] ([dac6038](https://github.com/VitaliyBondarenko1982/test-release/commit/dac603800c3f9fc4f5fdf94afe70794ef949c716))
+
 ## [2.1.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.0.0...foo-v2.1.0) (2024-02-08)
 
 
