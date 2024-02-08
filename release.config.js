@@ -1,6 +1,7 @@
 module.exports = {
   branches: ['main'],
   preset: 'conventionalcommits',
+  dryRun: false,
   presetConfig: {
     types: [
       { type: 'feat', section: 'Features' },
