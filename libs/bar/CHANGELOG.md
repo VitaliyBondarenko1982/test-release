@@ -1,3 +1,17 @@
+## [2.6.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v2.5.0...bar-v2.6.0) (2024-02-08)
+
+
+### Features
+
+* improve baz ([4a0d827](https://github.com/VitaliyBondarenko1982/test-release/commit/4a0d8279067c28a7c5b649851160668e9a7fe020))
+
+
+### Chores
+
+* **release:** baz-v2.4.0 [skip ci] ([35e7410](https://github.com/VitaliyBondarenko1982/test-release/commit/35e74107c7bc46328fb0bd3358beb5b16079c868))
+* **release:** foo-v2.6.0 [skip ci] ([2b9dfba](https://github.com/VitaliyBondarenko1982/test-release/commit/2b9dfba8e07255e12da6601f0df2e61ecff8eda5))
+* remove update deps ([988ab59](https://github.com/VitaliyBondarenko1982/test-release/commit/988ab5928fbf2f5606fce063f8f4bc5debf9e3da))
+
 ## [2.5.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v2.4.0...bar-v2.5.0) (2024-02-08)
 
 
