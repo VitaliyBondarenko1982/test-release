@@ -1,3 +1,16 @@
+## [1.3.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v1.2.0...baz-v1.3.0) (2024-02-08)
+
+
+### Features
+
+* add update deps ([e0b618d](https://github.com/VitaliyBondarenko1982/test-release/commit/e0b618d4121282dd6cf518da00649f3a0be92647))
+
+
+### Chores
+
+* **release:** bar-v1.3.0 [skip ci] ([e772084](https://github.com/VitaliyBondarenko1982/test-release/commit/e772084b8eb499f342a77c84e5b4e72ff7442f18))
+* **release:** foo-v1.2.0 [skip ci] ([e13da29](https://github.com/VitaliyBondarenko1982/test-release/commit/e13da295225e50278b3a117b1805dc145797a390))
+
 ## [1.2.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v1.1.0...baz-v1.2.0) (2024-02-07)
 
 
