@@ -1,3 +1,17 @@
+## [1.5.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v1.4.0...baz-v1.5.0) (2024-02-08)
+
+
+### Features
+
+* adjust release and scripts ([0a771fd](https://github.com/VitaliyBondarenko1982/test-release/commit/0a771fd3736d25ab0d6c0999cf779bbbaf340f5e))
+* improve baz ([af08461](https://github.com/VitaliyBondarenko1982/test-release/commit/af08461d08d94fb7e60a04760d60165169915c6b))
+
+
+### Chores
+
+* **release:** bar-v1.5.0 [skip ci] ([86fea19](https://github.com/VitaliyBondarenko1982/test-release/commit/86fea19796686ce8a7e9e6d26eb8cb5d9285f876))
+* **release:** foo-v1.4.0 [skip ci] ([1a56597](https://github.com/VitaliyBondarenko1982/test-release/commit/1a56597cfb2ed966e0e789b96aa5c75646eee2b9))
+
 ## [1.4.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v1.3.0...baz-v1.4.0) (2024-02-08)
 
 
