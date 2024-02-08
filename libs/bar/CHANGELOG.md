@@ -1,3 +1,16 @@
+## [2.2.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v2.1.0...bar-v2.2.0) (2024-02-08)
+
+
+### Features
+
+* another update bar ([737a846](https://github.com/VitaliyBondarenko1982/test-release/commit/737a8468b6aee53199b0b60b549889be1b6409bc))
+
+
+### Chores
+
+* adjust nxignore ([3a7d166](https://github.com/VitaliyBondarenko1982/test-release/commit/3a7d16644238ae7c99e490c04f379abc9cb6a063))
+* **release:** foo-v2.1.0 [skip ci] ([de762b4](https://github.com/VitaliyBondarenko1982/test-release/commit/de762b43b9f62390f8b5f50e8470e936d8b3448b))
+
 ## [2.1.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v2.0.0...bar-v2.1.0) (2024-02-08)
 
 
