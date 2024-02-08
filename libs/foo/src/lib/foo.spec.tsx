@@ -8,8 +8,8 @@ describe('Foo', () => {
     expect(baseElement).toBeTruthy();
   });
 
-  it('should display "Welcome to really Foo" as a title', () => {
+  it('should display "Welcome to really Foo!" as a title', () => {
     const { getByText } = render(<Foo />);
-    expect(getByText(/Welcome to really Foo/gi)).toBeTruthy();
+    expect(getByText(/Welcome to really Foo!/gi)).toBeTruthy();
   });
 });
