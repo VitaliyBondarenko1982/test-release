@@ -9,6 +9,7 @@ module.exports = {
   commitPaths: [`${libPath}/*`],
   assets: [`${libPath}/README.md`, `${libPath}/CHANGELOG.md`],
   dryRun: false,
+  ci: false,
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
