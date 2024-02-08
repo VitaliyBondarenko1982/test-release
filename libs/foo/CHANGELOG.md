@@ -1,3 +1,24 @@
+## [2.6.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.5.2...foo-v2.6.0) (2024-02-08)
+
+
+### Features
+
+* bar updated ([c705b95](https://github.com/VitaliyBondarenko1982/test-release/commit/c705b95be743f201acbcd193d9a1ed4bf46a1837))
+* update baz 2 ([248a53d](https://github.com/VitaliyBondarenko1982/test-release/commit/248a53d5cfacf68b2bdb3d9a250e1a7a3e89f159))
+
+
+### Bug Fixes
+
+* add parrallel flag ([255a364](https://github.com/VitaliyBondarenko1982/test-release/commit/255a364e5ba2dd40f018ba2e55903efb614b4fc2))
+
+
+### Chores
+
+* **release:** bar-v2.4.0 [skip ci] ([18a9e7a](https://github.com/VitaliyBondarenko1982/test-release/commit/18a9e7af7d99598a4119fb062ac3ec069922c159))
+* **release:** bar-v2.5.0 [skip ci] ([d582a1e](https://github.com/VitaliyBondarenko1982/test-release/commit/d582a1ef8fd1da9ce614f2efa6846288f97f826b))
+* **release:** baz-v2.3.0 [skip ci] ([1e92155](https://github.com/VitaliyBondarenko1982/test-release/commit/1e921554ef9865a6564976e00e75acc2ed154814))
+* update config ([2e4a754](https://github.com/VitaliyBondarenko1982/test-release/commit/2e4a75447a38bfa8cd37a45d9bad8df08be9c5f0))
+
 ## [2.5.2](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.5.1...foo-v2.5.2) (2024-02-08)
 
 
