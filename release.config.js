@@ -15,5 +15,9 @@ module.exports = {
       { type: 'test', hidden: true },
     ],
   },
-  releaseRules: [{ type: 'refactor', release: 'patch' }, { type: 'perf', release: 'major' }],
+  releaseRules: [
+    { type: 'refactor', release: 'patch' },
+    { type: 'feat', release: 'minor'},
+    { type: 'perf', release: 'major' },
+  ],
 };
