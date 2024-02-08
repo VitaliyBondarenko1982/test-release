@@ -1,3 +1,17 @@
+## [2.9.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.8.1...foo-v2.9.0) (2024-02-08)
+
+
+### Features
+
+* update bar ([54a5207](https://github.com/VitaliyBondarenko1982/test-release/commit/54a520737cd5af50ea2bc82ab8905c7ba5c50667))
+* update bar 2 ([8ab6c07](https://github.com/VitaliyBondarenko1982/test-release/commit/8ab6c07b7523964990ac1ab95ee6de2dd6f31bb8))
+* update foo ([7f7461c](https://github.com/VitaliyBondarenko1982/test-release/commit/7f7461c4210653a6ede69c7eec033136dbba011d))
+
+
+### Chores
+
+* **release:** bar-v2.8.0 [skip ci] ([bb12522](https://github.com/VitaliyBondarenko1982/test-release/commit/bb1252249344a35497980a30d77e8531674af471))
+
 ## [2.8.1](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.8.0...foo-v2.8.1) (2024-02-08)
 
 
