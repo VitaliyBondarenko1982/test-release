@@ -1,3 +1,15 @@
+## [2.13.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.12.0...foo-v2.13.0) (2024-02-08)
+
+
+### Features
+
+* update foo ([e3831b7](https://github.com/VitaliyBondarenko1982/test-release/commit/e3831b7995147058a54aa543290cf03cb17b614e))
+
+
+### Chores
+
+* update workflow ([712d68f](https://github.com/VitaliyBondarenko1982/test-release/commit/712d68f3f9d76c8b346bdb2782e38395f885a335))
+
 ## [2.12.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.11.0...foo-v2.12.0) (2024-02-08)
 
 
