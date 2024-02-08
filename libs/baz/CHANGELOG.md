@@ -1,3 +1,16 @@
+## [2.5.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.4.0...baz-v2.5.0) (2024-02-08)
+
+
+### Features
+
+* bar new ([bd65e41](https://github.com/VitaliyBondarenko1982/test-release/commit/bd65e41dcdd66c8279a05e99f1aaa31198211461))
+
+
+### Chores
+
+* **release:** bar-v2.6.0 [skip ci] ([c748b87](https://github.com/VitaliyBondarenko1982/test-release/commit/c748b87449427264e2ca9933695fdb519289fd50))
+* **release:** foo-v2.7.0 [skip ci] ([f85382c](https://github.com/VitaliyBondarenko1982/test-release/commit/f85382c917952cccc93ef5ecda7e326655b40d9a))
+
 ## [2.4.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.3.0...baz-v2.4.0) (2024-02-08)
 
 
