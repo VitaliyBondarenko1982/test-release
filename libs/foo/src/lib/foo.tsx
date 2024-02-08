@@ -7,7 +7,7 @@ export interface FooProps {}
 export function Foo(props: FooProps) {
   return (
     <div className={styles['container']}>
-      <h1>Foo!</h1>
+      <h1>Foo</h1>
       <Baz />
     </div>
   );
