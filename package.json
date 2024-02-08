@@ -4,15 +4,17 @@
   "license": "MIT",
   "scripts": {
     "start": "nx serve --project test-release-app",
+    "lint:affected": "npx nx affected -t lint --base=origin/main",
     "lint:bar": "nx lint --project bar",
     "lint:baz": "nx lint --project baz",
     "lint:foo": "nx lint --project foo",
     "lint": "nx run-many --target=lint --all",
-    "test:affected": "npx nx affected -t test",
+    "test:affected": "npx nx affected -t test --base=origin/main",
     "test:bar": "nx test  --project bar",
     "test:baz": "nx test  --project baz",
     "test:foo": "nx test --project foo",
     "test": "nx run-many --target=test --all",
+    "build:affected": "npx nx affected -t build --base=origin/main",
     "build:bar": "nx build  --project bar",
     "build:baz": "nx build  --project baz",
     "build:foo": "nx build --project foo",
@@ -20,7 +22,9 @@
     "bump-version:bar": "rjp libs/bar/package.json version $VERSION",
     "bump-version:baz": "rjp libs/baz/package.json version $VERSION",
     "bump-version:foo": "rjp libs/baz/package.json version $VERSION",
-    "update-deps": "PACKAGE_NAME=$PACKAGE_NAME VERSION=$VERSION npx nx run-many -t update-deps"
+    "release:affected": "npx nx affected -t release --base=origin/main",
+    "update-deps": "PACKAGE_NAME=$PACKAGE_NAME VERSION=$VERSION npx nx run-many -t update-deps",
+    "publisher" : "npm run lint:affected && npm run test:affected && npm run build:affected && npm run release:affected"
   },
   "private": true,
   "dependencies": {
