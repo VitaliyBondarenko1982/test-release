@@ -1,3 +1,16 @@
+## [2.5.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.4.0...foo-v2.5.0) (2024-02-08)
+
+
+### Features
+
+* update package json ([0a095b4](https://github.com/VitaliyBondarenko1982/test-release/commit/0a095b47baef7f74b34483226a483407f012a164))
+
+
+### Chores
+
+* upadte foo package json ([00c812a](https://github.com/VitaliyBondarenko1982/test-release/commit/00c812a6ff22bdb8d885d361cb751160664b2e04))
+* update scripts ([355a60e](https://github.com/VitaliyBondarenko1982/test-release/commit/355a60ea1dee0e6af861ec5a9c008ba2b4be831e))
+
 ## [2.4.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.3.0...foo-v2.4.0) (2024-02-08)
 
 
