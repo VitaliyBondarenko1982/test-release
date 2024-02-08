@@ -1,3 +1,15 @@
+## [2.10.1](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.10.0...foo-v2.10.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* bar ([4f9b6dd](https://github.com/VitaliyBondarenko1982/test-release/commit/4f9b6dd085d74ed662939eec37e765c81679df4f))
+
+
+### Chores
+
+* **release:** bar-v2.9.1 [skip ci] ([c773248](https://github.com/VitaliyBondarenko1982/test-release/commit/c7732482d018dc232eda68e26b3012fddc0dc0ad))
+
 ## [2.10.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.9.0...foo-v2.10.0) (2024-02-08)
 
 
