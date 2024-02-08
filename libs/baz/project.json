@@ -48,12 +48,6 @@
       "options": {
         "command": "npx semantic-release --debug --extends=./libs/baz/.release.config.js"
       }
-    },
-    "updateDeps": {
-      "executor": "nx:run-commands",
-      "options": {
-        "command": "npx rjp ./dist/libs/baz/package.json $PACKAGE_NAME $VERSION"
-      }
     }
   }
 }

@@ -54,12 +54,6 @@
       "options": {
         "command": "npx semantic-release --debug --extends=./libs/foo/.release.config.js"
       }
-    },
-    "updateDeps": {
-      "executor": "nx:run-commands",
-      "options": {
-        "command": "npx rjp ./dist/libs/foo/package.json $PACKAGE_NAME $VERSION"
-      }
     }
   }
 }

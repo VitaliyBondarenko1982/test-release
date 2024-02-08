@@ -23,7 +23,6 @@
     "bump-version:baz": "rjp libs/baz/package.json version $VERSION",
     "bump-version:foo": "rjp libs/foo/package.json version $VERSION",
     "release:affected": "npx nx affected -t release --base=origin/main --parallel=1",
-    "update-deps": "PACKAGE_NAME=$PACKAGE_NAME VERSION=$VERSION npx nx run-many -t update-deps",
     "publisher" : "npm run lint:affected && npm run test:affected && npm run build:affected && npm run release:affected"
   },
   "private": true,
