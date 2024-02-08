@@ -1,3 +1,17 @@
+## [1.7.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v1.6.0...foo-v1.7.0) (2024-02-08)
+
+
+### Features
+
+* adjust nxignore ([88e4b6f](https://github.com/VitaliyBondarenko1982/test-release/commit/88e4b6fcf45c0815dd2b95fd7415a94536c0937e))
+* adjust release rules ([0bf504f](https://github.com/VitaliyBondarenko1982/test-release/commit/0bf504fa4030967503e828cf6a346859469f9c1e))
+
+
+### Chores
+
+* **release:** bar-v1.8.0 [skip ci] ([7b77d68](https://github.com/VitaliyBondarenko1982/test-release/commit/7b77d68ebafa9d506101c11e976dc30b476fdfed))
+* **release:** baz-v1.7.0 [skip ci] ([509ea26](https://github.com/VitaliyBondarenko1982/test-release/commit/509ea267e796dfd55fd6c099c34033f555874307))
+
 ## [1.6.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v1.5.0...foo-v1.6.0) (2024-02-08)
 
 
