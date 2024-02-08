@@ -19,7 +19,7 @@ module.exports = {
     ],
     '@semantic-release/npm',
     ["@semantic-release/exec", {
-      prepareCmd: 'VERSION=${nextRelease.version} npm run bump-version:' + libName
+      prepareCmd: 'VERSION=${nextRelease.version} npm run bump-version:' + libName + ' && PACKAGE_NAME=@monoleasa-v/bar VERSION=${nextRelease.version} npm run update-deps',
     }],
     [
       '@semantic-release/git',
