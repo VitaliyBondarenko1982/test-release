@@ -1,3 +1,17 @@
+## [1.4.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v1.3.0...foo-v1.4.0) (2024-02-08)
+
+
+### Features
+
+* add missing dependencies ([0c3bd6b](https://github.com/VitaliyBondarenko1982/test-release/commit/0c3bd6b44367d2ab6bae286491213b55d64cdca9))
+* switch to semantic release ([28c5143](https://github.com/VitaliyBondarenko1982/test-release/commit/28c5143fe0e854edbbdce8928afc24edb64a0257))
+
+
+### Chores
+
+* **release:** bar-v1.5.0 [skip ci] ([86fea19](https://github.com/VitaliyBondarenko1982/test-release/commit/86fea19796686ce8a7e9e6d26eb8cb5d9285f876))
+* **release:** baz-v1.4.0 [skip ci] ([85a47fa](https://github.com/VitaliyBondarenko1982/test-release/commit/85a47fab8b99dc1e3ecfda0b93d4de0dfc33d0bd))
+
 ## [1.3.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v1.2.0...foo-v1.3.0) (2024-02-08)
 
 
