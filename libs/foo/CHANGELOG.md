@@ -1,3 +1,11 @@
+## [2.8.1](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.8.0...foo-v2.8.1) (2024-02-08)
+
+
+### Chores
+
+* **release:** bar-v2.7.1 [skip ci] ([916df87](https://github.com/VitaliyBondarenko1982/test-release/commit/916df8751c44143c0778c869845c354838198a4c))
+* **release:** baz-v2.5.1 [skip ci] ([6102d2e](https://github.com/VitaliyBondarenko1982/test-release/commit/6102d2e7cd39d118336547399fd7b0d2383ca557))
+
 ## [2.8.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.7.0...foo-v2.8.0) (2024-02-08)
 
 
