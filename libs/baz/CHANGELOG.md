@@ -1,3 +1,22 @@
+## [2.3.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.2.0...baz-v2.3.0) (2024-02-08)
+
+
+### Features
+
+* bar updated ([c705b95](https://github.com/VitaliyBondarenko1982/test-release/commit/c705b95be743f201acbcd193d9a1ed4bf46a1837))
+* update baz 2 ([248a53d](https://github.com/VitaliyBondarenko1982/test-release/commit/248a53d5cfacf68b2bdb3d9a250e1a7a3e89f159))
+
+
+### Bug Fixes
+
+* add parrallel flag ([255a364](https://github.com/VitaliyBondarenko1982/test-release/commit/255a364e5ba2dd40f018ba2e55903efb614b4fc2))
+
+
+### Chores
+
+* **release:** bar-v2.4.0 [skip ci] ([18a9e7a](https://github.com/VitaliyBondarenko1982/test-release/commit/18a9e7af7d99598a4119fb062ac3ec069922c159))
+* update config ([2e4a754](https://github.com/VitaliyBondarenko1982/test-release/commit/2e4a75447a38bfa8cd37a45d9bad8df08be9c5f0))
+
 ## [2.2.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.1.0...baz-v2.2.0) (2024-02-08)
 
 
