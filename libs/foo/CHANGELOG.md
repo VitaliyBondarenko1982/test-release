@@ -1,3 +1,10 @@
+## [2.4.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.3.0...foo-v2.4.0) (2024-02-08)
+
+
+### Features
+
+* updated foo ([ad85a2b](https://github.com/VitaliyBondarenko1982/test-release/commit/ad85a2b8cfecb5ceca2d541477d77e926130ae86))
+
 ## [2.3.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.2.0...foo-v2.3.0) (2024-02-08)
 
 
