@@ -1,3 +1,20 @@
+## [2.3.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.2.0...foo-v2.3.0) (2024-02-08)
+
+
+### Features
+
+* improve really bar ([1ea03f1](https://github.com/VitaliyBondarenko1982/test-release/commit/1ea03f1c7d13706ce1e567f3cd831ab43b8d93df))
+* update foo lib ([77458df](https://github.com/VitaliyBondarenko1982/test-release/commit/77458dff491f235e8cf7a116218a36582dc2c2b5))
+
+
+### Chores
+
+* add ci false ([f8fd38c](https://github.com/VitaliyBondarenko1982/test-release/commit/f8fd38c91a081e03aa72cc360d76641628f9dea9))
+* **release:** bar-v2.3.0 [skip ci] ([d42e542](https://github.com/VitaliyBondarenko1982/test-release/commit/d42e54281e08227120bcb3dde520db4aff4d032e))
+* remove release from ci ([6511176](https://github.com/VitaliyBondarenko1982/test-release/commit/65111769bd90dfea7590feb9d3c730dd0be5a91a))
+* set dry run to false ([e828b02](https://github.com/VitaliyBondarenko1982/test-release/commit/e828b02db04a26fbf074556784e9361feca3860f))
+* update release config ([fc1dc5b](https://github.com/VitaliyBondarenko1982/test-release/commit/fc1dc5b5223be0607a286d444cfbbc7774b4da0e))
+
 ## [2.2.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.1.0...foo-v2.2.0) (2024-02-08)
 
 
