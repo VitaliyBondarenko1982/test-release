@@ -1,11 +1,11 @@
 const libName = 'foo';
 const libPath = `libs/${libName}`;
-const artifactName = libName;
+const importPath = `@monoleasa-v/${libName}`;
 
 module.exports = {
   name: libName,
   pkgRoot: `dist/${libPath}`,
-  tagFormat: artifactName + '-v${version}',
+  tagFormat: libName + '-v${version}',
   commitPaths: [`${libPath}/*`],
   assets: [`${libPath}/README.md`, `${libPath}/CHANGELOG.md`],
   plugins: [
@@ -19,14 +19,14 @@ module.exports = {
     ],
     '@semantic-release/npm',
     ["@semantic-release/exec", {
-      prepareCmd: 'VERSION=${nextRelease.version} npm run bump-version:' + libName + ' && PACKAGE_NAME=@monoleasa-v/foo VERSION=${nextRelease.version} npm run update-deps',
+      prepareCmd: ` PACKAGE_NAME=${importPath} VERSION=\${nextRelease.version} npm run update-deps && VERSION=\${nextRelease.version} npm run bump-version:${libName}`,
     }],
     [
       '@semantic-release/git',
       {
         assets: [`${libPath}/package.json`, `${libPath}/CHANGELOG.md`],
         message:
-          `chore(release): ${artifactName}` +
+          `chore(release): ${libName}` +
           '-v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
       },
     ],
