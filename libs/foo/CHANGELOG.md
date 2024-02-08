@@ -1,3 +1,10 @@
+## [2.5.2](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.5.1...foo-v2.5.2) (2024-02-08)
+
+
+### Bug Fixes
+
+* update baz ([bd0645b](https://github.com/VitaliyBondarenko1982/test-release/commit/bd0645bd8306497174c9c443ba5b79352415338f))
+
 ## [2.5.1](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.5.0...foo-v2.5.1) (2024-02-08)
 
 
