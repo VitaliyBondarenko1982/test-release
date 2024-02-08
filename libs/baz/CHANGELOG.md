@@ -1,3 +1,31 @@
+## [2.6.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.5.1...baz-v2.6.0) (2024-02-08)
+
+
+### Features
+
+* update bar ([54a5207](https://github.com/VitaliyBondarenko1982/test-release/commit/54a520737cd5af50ea2bc82ab8905c7ba5c50667))
+* update bar ([a4b3d01](https://github.com/VitaliyBondarenko1982/test-release/commit/a4b3d01069c8d9187f826af198617a948e43c0ae))
+* update bar 2 ([8ab6c07](https://github.com/VitaliyBondarenko1982/test-release/commit/8ab6c07b7523964990ac1ab95ee6de2dd6f31bb8))
+* update baz ([b26af7a](https://github.com/VitaliyBondarenko1982/test-release/commit/b26af7ae88ca2763af2564d26d711bc63a65d0b8))
+* update foo ([7f7461c](https://github.com/VitaliyBondarenko1982/test-release/commit/7f7461c4210653a6ede69c7eec033136dbba011d))
+
+
+### Bug Fixes
+
+* bar ([4f9b6dd](https://github.com/VitaliyBondarenko1982/test-release/commit/4f9b6dd085d74ed662939eec37e765c81679df4f))
+
+
+### Chores
+
+* **release:** bar-v2.7.1 [skip ci] ([916df87](https://github.com/VitaliyBondarenko1982/test-release/commit/916df8751c44143c0778c869845c354838198a4c))
+* **release:** bar-v2.8.0 [skip ci] ([bb12522](https://github.com/VitaliyBondarenko1982/test-release/commit/bb1252249344a35497980a30d77e8531674af471))
+* **release:** bar-v2.9.0 [skip ci] ([d158264](https://github.com/VitaliyBondarenko1982/test-release/commit/d158264a54130fd6537ba309eb52d609fad31680))
+* **release:** bar-v2.9.1 [skip ci] ([c773248](https://github.com/VitaliyBondarenko1982/test-release/commit/c7732482d018dc232eda68e26b3012fddc0dc0ad))
+* **release:** foo-v2.10.0 [skip ci] ([4ca396c](https://github.com/VitaliyBondarenko1982/test-release/commit/4ca396c0e8499896f16ab9553e8cf4b43fb60d10))
+* **release:** foo-v2.10.1 [skip ci] ([3af3cce](https://github.com/VitaliyBondarenko1982/test-release/commit/3af3cce2abdc0e7ff075bd84c1be47124c0017ed))
+* **release:** foo-v2.8.1 [skip ci] ([2e8c05a](https://github.com/VitaliyBondarenko1982/test-release/commit/2e8c05adfc35db1d943a3261d72e35d408de5a4b))
+* **release:** foo-v2.9.0 [skip ci] ([3fa4514](https://github.com/VitaliyBondarenko1982/test-release/commit/3fa4514522ef1c0efbd1684978cdaf8dea3d1a60))
+
 ## [2.5.1](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.5.0...baz-v2.5.1) (2024-02-08)
 
 
