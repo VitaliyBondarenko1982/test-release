@@ -9,9 +9,9 @@ module.exports = {
       { type: 'docs', hidden: true },
       { type: 'style', hidden: true },
       { type: 'refactor', section: 'Refactoring' },
-      { type: 'perf', hidden: true },
+      { type: 'perf', section: 'Breaking Changes' },
       { type: 'test', hidden: true },
     ],
   },
-  releaseRules: [{ type: 'refactor', release: 'patch' }],
+  releaseRules: [{ type: 'refactor', release: 'patch' }, { type: 'perf', release: 'major' }],
 };
