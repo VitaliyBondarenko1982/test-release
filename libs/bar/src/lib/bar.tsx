@@ -7,7 +7,7 @@ export interface BarProps {}
 export function Bar(props: BarProps) {
   return (
     <div className={styles['container']}>
-      <h1>Bar!!!</h1>
+      <h1>Bar</h1>
       <Baz />
     </div>
   );
