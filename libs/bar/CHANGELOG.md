@@ -3,6 +3,39 @@
 
 ### Features
 
+* bar updated ([c705b95](https://github.com/VitaliyBondarenko1982/test-release/commit/c705b95be743f201acbcd193d9a1ed4bf46a1837))
+* update foo lib ([77458df](https://github.com/VitaliyBondarenko1982/test-release/commit/77458dff491f235e8cf7a116218a36582dc2c2b5))
+* update package json ([0a095b4](https://github.com/VitaliyBondarenko1982/test-release/commit/0a095b47baef7f74b34483226a483407f012a164))
+* updated foo ([ad85a2b](https://github.com/VitaliyBondarenko1982/test-release/commit/ad85a2b8cfecb5ceca2d541477d77e926130ae86))
+
+
+### Bug Fixes
+
+* add parrallel flag ([255a364](https://github.com/VitaliyBondarenko1982/test-release/commit/255a364e5ba2dd40f018ba2e55903efb614b4fc2))
+* package json root ([e90a1d8](https://github.com/VitaliyBondarenko1982/test-release/commit/e90a1d878935f1b997e31415be004253842bac11))
+* update baz ([bd0645b](https://github.com/VitaliyBondarenko1982/test-release/commit/bd0645bd8306497174c9c443ba5b79352415338f))
+
+
+### Chores
+
+* add ci false ([f8fd38c](https://github.com/VitaliyBondarenko1982/test-release/commit/f8fd38c91a081e03aa72cc360d76641628f9dea9))
+* **release:** bar-v2.4.0 [skip ci] ([7390323](https://github.com/VitaliyBondarenko1982/test-release/commit/73903239ce711a3921c4289134cb81728feffcaf))
+* **release:** baz-v2.2.0 [skip ci] ([3be222f](https://github.com/VitaliyBondarenko1982/test-release/commit/3be222f34d9394df1b2c71e147cb6fb6da158dbd))
+* **release:** foo-v2.3.0 [skip ci] ([27d996f](https://github.com/VitaliyBondarenko1982/test-release/commit/27d996ffb500dfc3f6aa13f7645ee364352b8aee))
+* **release:** foo-v2.4.0 [skip ci] ([d6c61d8](https://github.com/VitaliyBondarenko1982/test-release/commit/d6c61d8991b9a21c93ba6df2f7b178a563daacff))
+* **release:** foo-v2.5.0 [skip ci] ([fa83c5d](https://github.com/VitaliyBondarenko1982/test-release/commit/fa83c5d0eeb9c6437fd48b9af7d448b32e99a423))
+* **release:** foo-v2.5.1 [skip ci] ([170d0b5](https://github.com/VitaliyBondarenko1982/test-release/commit/170d0b557e9eb742985cb5edd1cc0a45daed6686))
+* **release:** foo-v2.5.2 [skip ci] ([18e3196](https://github.com/VitaliyBondarenko1982/test-release/commit/18e3196a39ccd03fe2c82093279afed81b279da8))
+* set dry run to false ([e828b02](https://github.com/VitaliyBondarenko1982/test-release/commit/e828b02db04a26fbf074556784e9361feca3860f))
+* upadte foo package json ([00c812a](https://github.com/VitaliyBondarenko1982/test-release/commit/00c812a6ff22bdb8d885d361cb751160664b2e04))
+* update release config ([fc1dc5b](https://github.com/VitaliyBondarenko1982/test-release/commit/fc1dc5b5223be0607a286d444cfbbc7774b4da0e))
+* update scripts ([355a60e](https://github.com/VitaliyBondarenko1982/test-release/commit/355a60ea1dee0e6af861ec5a9c008ba2b4be831e))
+
+## [2.4.0](https://github.com/VitaliyBondarenko1982/test-release/compare/bar-v2.3.0...bar-v2.4.0) (2024-02-08)
+
+
+### Features
+
 * update foo lib ([77458df](https://github.com/VitaliyBondarenko1982/test-release/commit/77458dff491f235e8cf7a116218a36582dc2c2b5))
 * update package json ([0a095b4](https://github.com/VitaliyBondarenko1982/test-release/commit/0a095b47baef7f74b34483226a483407f012a164))
 * updated foo ([ad85a2b](https://github.com/VitaliyBondarenko1982/test-release/commit/ad85a2b8cfecb5ceca2d541477d77e926130ae86))
