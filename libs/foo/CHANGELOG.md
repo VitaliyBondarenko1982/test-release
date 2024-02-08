@@ -1,3 +1,10 @@
+## [2.5.1](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.5.0...foo-v2.5.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* package json root ([e90a1d8](https://github.com/VitaliyBondarenko1982/test-release/commit/e90a1d878935f1b997e31415be004253842bac11))
+
 ## [2.5.0](https://github.com/VitaliyBondarenko1982/test-release/compare/foo-v2.4.0...foo-v2.5.0) (2024-02-08)
 
 
