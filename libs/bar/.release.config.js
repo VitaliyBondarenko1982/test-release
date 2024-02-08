@@ -8,6 +8,7 @@ module.exports = {
   tagFormat: libName + '-v${version}',
   commitPaths: [`${libPath}/*`],
   assets: [`${libPath}/README.md`, `${libPath}/CHANGELOG.md`],
+  dryRun: false,
   plugins: [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
