@@ -5,8 +5,7 @@
     "access": "public"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "@monoleasa-v/baz": "latest"
+    "react": "^18.2.0"
   },
-  "sideEffects": false
+  "sideEffects": true
 }
