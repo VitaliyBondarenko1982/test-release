@@ -6,7 +6,7 @@ export interface BazProps {}
 export function Baz(props: BazProps) {
   return (
     <div className={styles['container']}>
-      <h1>Welcome to Baz</h1>
+      <h1>Welcome to Baz!</h1>
     </div>
   );
 }
