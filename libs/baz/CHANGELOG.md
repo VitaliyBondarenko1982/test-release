@@ -1,3 +1,25 @@
+## [2.8.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.7.0...baz-v2.8.0) (2024-02-15)
+
+
+### Features
+
+* update bar ([d2fd6d0](https://github.com/VitaliyBondarenko1982/test-release/commit/d2fd6d0c98132bd73683a9d8302a1445a9cc6c7c))
+* update baz ([8d5edb5](https://github.com/VitaliyBondarenko1982/test-release/commit/8d5edb5334a74a4ddeb043a3854e1ccd4d777874))
+* update foo ([48ae65a](https://github.com/VitaliyBondarenko1982/test-release/commit/48ae65a17bc56dd004cc2b9d80c764d7c3e5bf9c))
+* update foo ([e3831b7](https://github.com/VitaliyBondarenko1982/test-release/commit/e3831b7995147058a54aa543290cf03cb17b614e))
+
+
+### Chores
+
+* add registry ([70d880e](https://github.com/VitaliyBondarenko1982/test-release/commit/70d880e8f41b24c9f915f071c4cb058d726db26b))
+* **release:** bar-v2.11.0 [skip ci] ([d7742a3](https://github.com/VitaliyBondarenko1982/test-release/commit/d7742a375786b9803597baa38fb4b38db854556c))
+* **release:** bar-v2.12.0 [skip ci] ([a26bc29](https://github.com/VitaliyBondarenko1982/test-release/commit/a26bc299f7e3671d0018556e2e57bc16c2ada0bb))
+* **release:** bar-v2.13.0 [skip ci] ([e9ccbe5](https://github.com/VitaliyBondarenko1982/test-release/commit/e9ccbe5e0b3a76b8471704d7931e95a7227f281a))
+* **release:** foo-v2.12.0 [skip ci] ([937ae8b](https://github.com/VitaliyBondarenko1982/test-release/commit/937ae8bac85061d9a25c7a33e04008809075cc46))
+* **release:** foo-v2.13.0 [skip ci] ([3f57719](https://github.com/VitaliyBondarenko1982/test-release/commit/3f577190fecad3d1c40d3d61e17b4a889f5859e7))
+* **release:** foo-v2.14.0 [skip ci] ([67400cf](https://github.com/VitaliyBondarenko1982/test-release/commit/67400cf86863e1bec5e30314370fb6e82eab1471))
+* update workflow ([712d68f](https://github.com/VitaliyBondarenko1982/test-release/commit/712d68f3f9d76c8b346bdb2782e38395f885a335))
+
 ## [2.7.0](https://github.com/VitaliyBondarenko1982/test-release/compare/baz-v2.6.0...baz-v2.7.0) (2024-02-08)
 
 
