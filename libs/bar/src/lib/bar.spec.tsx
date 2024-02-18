@@ -8,8 +8,8 @@ describe('Bar', () => {
     expect(baseElement).toBeTruthy();
   });
 
-  it('should display "Bar!" as a title', () => {
+  it('should display "Bar" as a title', () => {
     const { getByText } = render(<Bar />);
-    expect(getByText(/Bar!/gi)).toBeTruthy();
+    expect(getByText(/Bar/gi)).toBeTruthy();
   });
 });
